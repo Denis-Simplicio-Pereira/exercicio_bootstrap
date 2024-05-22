@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(172, 194, 244);
+}
+
+.row {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.row form input {
+    width: 500px;
+    margin-bottom: 15px;
+}
+
+.row form button:hover {
+    background-color: #fff;
+    color: green;
+    font-weight: bolder;
+}
